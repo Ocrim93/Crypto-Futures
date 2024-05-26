@@ -1,0 +1,18 @@
+2024-05-23 00:37:15.686 | INFO     | __main__:<module>:16 - Starting bot
+2024-05-23 00:37:15.687 | INFO     | Code.run:websockets_run:6 - Instanziated spot websocket
+2024-05-23 00:37:15.688 | INFO     | Code.run:websockets_run:9 - Instanziated futures websocket
+2024-05-23 00:37:49.046 | INFO     | __main__:<module>:16 - Starting bot
+2024-05-23 00:37:49.048 | INFO     | Code.run:websockets_run:6 - Instanziated spot websocket
+2024-05-23 00:37:49.048 | INFO     | Code.run:websockets_run:9 - Instanziated futures websocket
+2024-05-23 00:37:55.858 | INFO     | __main__:<module>:16 - Starting bot
+2024-05-23 00:37:55.859 | INFO     | Code.run:websockets_run:6 - Instanziated spot websocket
+2024-05-23 00:37:55.859 | INFO     | Code.run:websockets_run:9 - Instanziated futures websocket
+2024-05-23 00:38:09.046 | INFO     | __main__:<module>:16 - Starting bot
+2024-05-23 00:38:09.047 | INFO     | Code.run:websockets_run:6 - Instanziated spot websocket
+2024-05-23 00:38:09.047 | INFO     | Code.run:websockets_run:9 - Instanziated futures websocket
+2024-05-23 00:39:38.679 | INFO     | __main__:<module>:16 - Starting bot
+2024-05-23 00:39:38.680 | INFO     | Code.run:websockets_run:6 - Instanziated spot websocket
+2024-05-23 00:39:38.680 | INFO     | Code.run:websockets_run:9 - Instanziated futures websocket
+2024-05-23 00:40:29.276 | INFO     | __main__:<module>:16 - Starting bot
+2024-05-23 00:40:29.277 | INFO     | Code.run:websockets_run:6 - Instanziated spot websocket
+2024-05-23 00:40:29.277 | INFO     | Code.run:websockets_run:9 - Instanziated futures websocket
